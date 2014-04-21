@@ -53,7 +53,7 @@ Note: Please use a copy of production parcel fabric data for use in this tool. A
 
 ## Issues
 
-This is not supported through Esri Support. If you find a bug or want to request a new feature, please let me know by submitting an issue. On this page.
+This is not supported through Esri Support. If you find a bug or want to request a new feature, please let me know by submitting an issue on this page.
 
 If submitting issues for this add-in, please test at version 10.2.x. This addin is not tested on ArcGIS 10.1 and issues will not be addressed for that version.
 
